@@ -4,6 +4,9 @@ A fully functional web-based platform developed with Calude to support teachers'
 
 ### **Demo Video**
 
+[Demo Video](https://www.loom.com/share/d3e69b8a56e946d7969c41ae25fb1c29)
+
+The given video walks through the project setup and the user experience.
 
 ## 🚀 Getting Started
 
