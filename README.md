@@ -2,15 +2,18 @@
 
 A fully functional web-based platform developed with Calude to support teachers' emotional well-being and foster community connection. PocketHelp provides emotional assessment tools, somatic exercise recommendations, and a Reddit-style community forum where educators can connect, share, and support each other.
 
+### **Demo Video**
+
+
 ## 🚀 Getting Started
 
 ### **Installation**
-No installation required! This is a standalone web application that runs entirely in your browser.
+Download the PocketHelp folder. Run the index.html file. This is a standalone web application that runs entirely in your browser without any additional requirements.
 
 ### **How to Open**
 
 1. **Double-click method:**
-   - Navigate to the `2 PocketHelp` folder
+   - Navigate to the `PocketHelp` folder
    - Double-click `index.html`
    - The app opens in your default browser
 
@@ -35,8 +38,6 @@ Try the platform immediately with these pre-configured accounts:
 **Admin privileges:**
 - Can delete any post in the community hub
 - All standard teacher features
-
-![Main Color: #89cff0](https://via.placeholder.com/100x30/89cff0/ffffff?text=PocketHelp)
 
 ## 🌟 Features
 
